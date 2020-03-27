@@ -1,0 +1,63 @@
+title: Student Sustainability Workshop
+author:
+  name: Vangelis Raúl Velázquez González 
+  email: hello@vange.li 
+description: > # this means to ignore newlines until "show_excerpts:"
+        The Student Sustainability Workshop is a unique, peer-to-peer educational
+        program where students learn about important environmental issues and the
+        ways that they can incorporate sustainable practices into their everyday
+        lives, improve their quality of life, and save resources while saving money.
+        Student also learn about careers in the emerging green economy and the paths
+        they can take to pursue them.
+
+        show_excerpts: false # set to true to show excerpts on the homepage
+
+        # Minima date format
+        # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+        minima:
+          date_format: "%b %-d, %Y"
+
+          # generate social links in footer
+          social_links:
+            twitter: sustainablework
+            # github: sustainablework 
+            # devto: jekyll
+            # dribbble: jekyll
+            facebook: SustainableWorks.org
+            # flickr:   jekyll
+            instagram: sustainablework
+            # linkedin: jekyll
+            # pinterest: jekyll
+            # youtube: jekyll
+            # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+            # youtube_channel_name: CloudCannon
+            # telegram: jekyll
+            # googleplus: +jekyll
+            # microdotblog: jekyll
+            # keybase: jekyll
+
+            # Mastodon instances
+            # mastodon:
+            # - username: jekyll
+            #   instance: example.com
+            # - username: jekyll2
+            #   instance: example.com
+
+            # GitLab instances
+            # gitlab:
+            # - username: jekyll
+            #   instance: example.com
+            # - username: jekyll2
+            #   instance: example.com
+
+        # If you want to link only specific pages in your header, uncomment
+        # this and add the path to the pages in order as they should show up
+        #header_pages:
+        # - about.md
+
+        # Build settings
+        theme: minima
+
+        plugins:
+         - jekyll-feed
+         - jekyll-seo-tag
