@@ -13,6 +13,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
+  skin: solarized 
   date_format: "%b %-d, %Y"
 
   # generate social links in footer
@@ -22,6 +23,7 @@ minima:
 
 header_pages:
   - about.md
+  - hw.html
 
 # Build settings
 theme: jekyll-theme-cayman
