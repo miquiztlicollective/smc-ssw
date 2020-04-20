@@ -21,10 +21,10 @@ minima:
 
 header_pages:
   - about.md
-  - hw.html
+  - homework.md
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 
 plugins:
  - jekyll-feed
